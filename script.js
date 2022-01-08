@@ -1,3 +1,4 @@
+// GLOBAL VARIABLES
 var searchFormEl = document.querySelector("#searchForm");
 var citySearch = document.querySelector("#citySearch");
 var currentCityEl = document.getElementById("currentCity");
