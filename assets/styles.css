@@ -1,0 +1,46 @@
+header{
+    background-color: #05386B;
+    color: #EDF5E1;
+}
+header h1{
+    margin:0;
+}
+
+main{
+    background-color: #5CDB95;
+    padding: 10px;
+}
+.card-header{
+    background-color: #05386B;
+    color: #EDF5E1;
+}
+.card-body{
+    background-color: #379683;
+}
+.cityBtn{
+    background-color: #05386B;
+    color: #EDF5E1;
+}
+
+span{
+    padding: 5px;
+    border-radius: 5px;
+}
+.currentWeather{
+    background-color: #05386B;
+    color:#EDF5E1;
+    border-radius: 10px;
+}
+
+.lookAhead{
+    color: #05386B;
+}
+.fiveDayBlock{
+    background-color: #05386B;
+    color:#EDF5E1;
+    border-radius: 5px;
+}
+.iconImage{
+    height: 50px;
+    width: 50px;
+}
